@@ -1,6 +1,6 @@
 # Google Dino Game
 - Created with HTML Canvas and Vanilla Javascript
-- Use arrow keys of your keyboard to jump(⬆) and dip (⬇)
+- Use arrow keys of your keyboard to jump -⬆ and dip - ⬇
 - You can change the game speed in javascript with changing variable named <code>FPS</code>
 
 
