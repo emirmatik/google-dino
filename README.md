@@ -1,2 +1,2 @@
-��# Dino Game
+# Google Dino Game
 
