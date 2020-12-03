@@ -3,6 +3,8 @@
 - Use arrow keys of your keyboard to jump -⬆ and dip - ⬇
 - You can change the game speed in javascript with changing variable named <code>FPS</code>
 
+**Improvement: Genetic Algorithm may be tried to teach dino jump and dip itself**
+
 
 ## Dino Pics
 ![dino](https://i.ibb.co/KXf9WNm/dino1.png) 
