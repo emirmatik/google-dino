@@ -9,5 +9,5 @@
 ![dinojump](https://i.ibb.co/HPSLHz3/dinojump.png) 
 ![dinosit](https://i.ibb.co/bFhnSGW/dinosit1.png) <br>
 **Bird**
-</hr>
+</hr> <br>
 ![bird](https://i.ibb.co/VDdhMFj/kus1.png) <br>
